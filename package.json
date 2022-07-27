@@ -17,6 +17,11 @@
                 "label": "bobojojo",
                 "uiTheme": "vs-dark",
                 "path": "./themes/bobojojo-color-theme.json"
+            },
+            {
+                "label": "bobojojo light",
+                "uiTheme": "vs",
+                "path": "./themes/bobojojo-light-color-theme.json"
             }
         ]
     },
