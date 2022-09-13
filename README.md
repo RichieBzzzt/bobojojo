@@ -12,11 +12,11 @@ This theme has been tested againsthe following language modes in VSCode:
 
 ### PowerShell
 
-![PowerShell_code_sample](powershell.png)
+![PowerShell_code_sample](PowerShell.png)
 
 ### YAML
 
-![yaml_code_sample](yaml.png)
+![yaml_code_sample](YAML.png)
 
 ### python
 
@@ -24,4 +24,4 @@ This theme has been tested againsthe following language modes in VSCode:
 
 ### JSON
 
-![json_code_sample](json.png)
+![json_code_sample](JSON.png)
