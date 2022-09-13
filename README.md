@@ -16,7 +16,7 @@ This theme has been tested againsthe following language modes in VSCode:
 
 ### YAML
 
-![yaml_code_sample](YAML.png)
+![yaml_code_sample](yaml.png)
 
 ### python
 
@@ -24,4 +24,4 @@ This theme has been tested againsthe following language modes in VSCode:
 
 ### JSON
 
-![json_code_sample](JSON.png)
+![json_code_sample](json.png)
