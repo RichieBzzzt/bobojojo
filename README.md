@@ -1,7 +1,5 @@
 # bobojojo theme
 
-The name of this theme is thanks to my children.
+A theme that produces some good colours.
 
-131a1e
-
-c0c2c4
+Tested against PowerShell, python, json and YAML.
