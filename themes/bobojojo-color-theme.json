@@ -165,7 +165,7 @@
 	  "quickInput.foreground": "#adc1c1",
 	  "quickInputTitle.background": "#adc1c1",
 	  "settings.modifiedItemIndicator": "#66CCCC",
-	  "terminal.background": "#282A36",
+	  "terminal.background": "#131a1e",
 	  "terminal.ansiBlack": "#131a1e",
 	  "terminal.ansiBlue": "#2472c8",
 	  "terminal.ansiBrightBlack": "#fa6d80",
@@ -191,7 +191,7 @@
 	  {
 		"scope": ["comment", "punctuation.definition.comment"],
 		"settings": {
-		  "foreground": "#7a8993",
+		  "foreground": "#336666",
 		  "fontStyle": "italic",
 		}
 	  },
@@ -222,7 +222,7 @@
 	  {
 		"scope": ["storage.type", "storage.type.class", "storage.modifier"],
 		"settings": {
-		  "foreground": "#deeb24"
+		  "foreground": "#CCFF33"
 		}
 	  },
 	  {
