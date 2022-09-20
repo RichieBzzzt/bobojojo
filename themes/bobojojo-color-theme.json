@@ -43,7 +43,7 @@
 	  "editorGroupHeader.tabsBorder": "#1d262d",
 	  "editorIndentGuide.background": "#131a1e",
 	  "editorLineNumber.foreground": "#BBCCCC",
-	  "editorLineNumber.activeForeground": "#fa6d80",
+	  "editorLineNumber.activeForeground": "#FF3366",
 	  "editorMarkerNavigation.background": "#131a1e",
 	  "errorForeground": "#66CCCC",
 	  "extensionButton.prominentBackground": "#1d262d",
@@ -291,12 +291,8 @@
 	  },
 	  {
 		"scope": [
-		  "entity.name.function",
-		  "meta.method.declaration",
-		  "meta.function-call",
-		  "variable.function",
-		  "support.function",
-		  "keyword.other.special-method"
+			"support.function.builtin.python",
+			"meta.function-call.generic.python"
 		],
 		"settings": {
 		  "foreground": "#FFFF99"
