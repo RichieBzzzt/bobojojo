@@ -153,7 +153,7 @@
 	  "gitDecoration.deletedResourceForeground": "#fa6d80",
 	  "gitDecoration.untrackedResourceForeground": "#CCFF33",
 	  "gitDecoration.ignoredResourceForeground": "#99CCCC",
-	  "gitDecoration.conflictingResourceForeground": "#996666cc",
+	  "gitDecoration.conflictingResourceForeground": "#F77D59cc",
 	  "list.errorForeground": "#66CCCC",
 	  "list.warningForeground": "#fa6d80",
 	  "minimap.errorHighlight": "#66CCCC",
