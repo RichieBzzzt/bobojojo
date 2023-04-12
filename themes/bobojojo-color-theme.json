@@ -95,7 +95,7 @@
 		"scrollbarSlider.activeBackground": "#BBCCCC",
 		"scrollbarSlider.background": "#182330",
 		"scrollbarSlider.hoverBackground": "#BBCCCC",
-		"selection.background": "#BBCCCC",
+		"selection.background": "#008b8b",
 		"sideBar.background": "#141C26",
 		"sideBar.border": "#008b8b",
 		"sideBar.dropBackground": "#182330",
@@ -152,7 +152,7 @@
 		"gitDecoration.modifiedResourceForeground": "#fefe22",
 		"gitDecoration.deletedResourceForeground": "#FF69B4",
 		"gitDecoration.untrackedResourceForeground": "#CCFF33",
-		"gitDecoration.ignoredResourceForeground": "#99CCCC",
+		"gitDecoration.ignoredResourceForeground": "#838996",
 		"gitDecoration.conflictingResourceForeground": "#F77D59cc",
 		"list.errorForeground": "#66CCCC",
 		"list.warningForeground": "#FF69B4",
@@ -198,7 +198,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#648c11",
+				"foreground": "#bf00ff",
 				"fontStyle": "italic",
 			}
 		},
