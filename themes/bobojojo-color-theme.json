@@ -107,7 +107,7 @@
 		"statusBar.debuggingBackground": "#141C26",
 		"statusBar.debuggingBorder": "#182330",
 		"statusBar.debuggingForeground": "#BBCCCC",
-		"statusBar.foreground": "#CFB53B",
+		"statusBar.foreground": "#FFFF00",
 		"statusBar.noFolderBackground": "#141C26",
 		"statusBarItem.hoverBackground": "#141C26",
 		"tab.activeBackground": "#27353D",
