@@ -5,7 +5,7 @@
 		"activityBar.background": "#141C26",
 		"activityBar.border": "#008b8b",
 		"activityBar.foreground": "#BBCCCC",
-		"activityBarBadge.background": "#FF69B4",
+		"activityBarBadge.background": "#fd6c9e",
 		"activityBarBadge.foreground": "#141C26",
 		"badge.background": "#BBCCCC",
 		"badge.foreground": "#141C26",
@@ -25,7 +25,7 @@
 		"editor.findMatchBorder": "#39515D",
 		"editor.findMatchHighlightBackground": "#243E4C",
 		"editor.foreground": "#BBCCCC",
-		"editor.lineHighlightBackground": "#100F1E",
+		"editor.lineHighlightBackground": "#1D2837",
 		"editor.selectionBackground": "#243E4C",
 		"editor.selectionForeground": "#141C26",
 		"editor.selectionHighlightBackground": "#003333",
@@ -85,7 +85,7 @@
 		"panelTitle.activeForeground": "#BBCCCC",
 		"panelTitle.inactiveForeground": "#BBCCCC",
 		"panel.border": "#CFB53B",
-		"panelTitle.activeBorder": "#FF69B4",
+		"panelTitle.activeBorder": "#fd6c9e",
 		"peekView.border": "#182330",
 		"peekViewEditor.background": "#141C26",
 		"pickerGroup.border": "#182330",
@@ -115,7 +115,7 @@
 		"tab.activeBorder": "#008b8b",
 		"tab.border": "#008b8b",
 		"tab.hoverBackground": "#141C26",
-		"tab.hoverBorder": "#FF69B4",
+		"tab.hoverBorder": "#fd6c9e",
 		"tab.inactiveBackground": "#182330",
 		"tab.unfocusedHoverBackground": "#141C26",
 		"textBlockQuote.background": "#141C26",
@@ -150,15 +150,15 @@
 		"editorWidget.border": "#454545",
 		"editorWidget.foreground": "#BBCCCC",
 		"gitDecoration.modifiedResourceForeground": "#fefe22",
-		"gitDecoration.deletedResourceForeground": "#FF69B4",
+		"gitDecoration.deletedResourceForeground": "#fd6c9e",
 		"gitDecoration.untrackedResourceForeground": "#CCFF33",
 		"gitDecoration.ignoredResourceForeground": "#838996",
 		"gitDecoration.conflictingResourceForeground": "#F77D59cc",
 		"list.errorForeground": "#66CCCC",
-		"list.warningForeground": "#FF69B4",
+		"list.warningForeground": "#fd6c9e",
 		"minimap.errorHighlight": "#66CCCC",
-		"minimap.findMatchHighlight": "#FF69B4",
-		"minimap.selectionHighlight": "#FF69B4",
+		"minimap.findMatchHighlight": "#fd6c9e",
+		"minimap.selectionHighlight": "#fd6c9e",
 		"minimap.warningHighlight": "#66CCCC",
 		"minimapGutter.addedBackground": "#BBCCCC",
 		"minimapGutter.deletedBackground": "#182330",
@@ -172,7 +172,7 @@
 		"terminal.background": "#141C26",
 		"terminal.ansiBlack": "#141C26",
 		"terminal.ansiBlue": "#2472c8",
-		"terminal.ansiBrightBlack": "#FF69B4",
+		"terminal.ansiBrightBlack": "#fd6c9e",
 		"terminal.ansiBrightBlue": "#3b8eea",
 		"terminal.ansiBrightCyan": "#29b8db",
 		"terminal.ansiBrightGreen": "#23d18b",
@@ -198,7 +198,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#bf00ff",
+				"foreground": "#838996",
 				"fontStyle": "italic",
 			}
 		},
@@ -232,7 +232,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#FF69B4"
+				"foreground": "#fd6c9e"
 			}
 		},
 		{
@@ -307,7 +307,7 @@
 				"meta.brace.round",
 			],
 			"settings": {
-				"foreground": "#FF69B4"
+				"foreground": "#fd6c9e"
 			}
 		},
 		{
@@ -350,7 +350,7 @@
 				"string.template"
 			],
 			"settings": {
-				"foreground": "#FF69B4"
+				"foreground": "#fd6c9e"
 			}
 		},
 		{
@@ -395,7 +395,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FF69B4"
+				"foreground": "#fd6c9e"
 			}
 		},
 		{
@@ -444,7 +444,7 @@
 				"constant.language.boolean.yaml"
 			],
 			"settings": {
-				"foreground": "#FF69B4"
+				"foreground": "#fd6c9e"
 			}
 		},
 		{
@@ -464,7 +464,7 @@
 				"entity.name.type.module",
 			],
 			"settings": {
-				"foreground": "#FF69B4"
+				"foreground": "#fd6c9e"
 			}
 		},
 		{
@@ -499,7 +499,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#FF69B4"
+				"foreground": "#fd6c9e"
 			}
 		},
 		{
@@ -508,7 +508,7 @@
 				"text.html.basic entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#FF69B4",
+				"foreground": "#fd6c9e",
 				"fontStyle": "italic"
 			}
 		},
@@ -517,7 +517,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#FF69B4"
+				"foreground": "#fd6c9e"
 			}
 		},
 		{
@@ -525,7 +525,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#FF69B4"
+				"foreground": "#fd6c9e"
 			}
 		},
 		{
@@ -576,7 +576,7 @@
 			],
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#FF69B4",
+				"foreground": "#fd6c9e",
 			}
 		},
 		{
