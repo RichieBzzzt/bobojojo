@@ -9,7 +9,7 @@ name: $(BuildDefinitionName)_$(VersionNumber)_$(SourceBranchName)
 
 variables:
   - name: BaseVersionNumber 
-    value: "0.3"  
+    value: "0.4"  
   - name: Minor 
     value: $[counter(variables['BaseVersionNumber'], 1)]
   - name: VersionNumber 
